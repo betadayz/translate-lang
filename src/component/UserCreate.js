@@ -5,7 +5,6 @@ import Button from './Button';
 const UserCreate = () => {
     return (
         <div className="ui form">
-            Jesus is lord!
             <Field/>
             <Button/>
         </div>
